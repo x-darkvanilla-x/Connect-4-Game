@@ -1,5 +1,8 @@
 # Connect 4 Game
 
+
+![Screenshot 2024-04-06 180245](https://github.com/x-darkvanilla-x/Connect-4-Game/assets/122479676/23581886-d6ce-4219-9b5c-cf6a1315a648)
+
 This Connect 4 game is a simple implementation using HTML, CSS, and JavaScript.
 
 ## Introduction
